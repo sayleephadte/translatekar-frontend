@@ -26,12 +26,3 @@ The backend API for the Translator Application is available at https://github.co
 
 Make sure the backend server is running and accessible at an appropriate URL, as the frontend will communicate with it for translations.
 
-Usage
-1. Open your web browser and go to http://localhost:3000 (or the specified port if customized) to access the Translator Application frontend.
-2. You'll be presented with the Translator Application.
-3. Enter the text you want to translate in the input field.
-4.Choose the source language from the dropdown menu.
-5.The frontend will send the translation request to the backend API.
-6.The backend will process the request and return the translated text.
-7.The translated text will appear on the screen instantly.
-
