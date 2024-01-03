@@ -1,6 +1,6 @@
 # Introduction
 
-The Translatekar Application is a web-based tool that allows users to translate text between different languages. It consists of a frontend, built with React and styled with Tailwind CSS, and a backend API deployed at https://github.com/sajalmandrekar/deploy_tf_model. The backend API is responsible for handling translation requests and providing the translated text back to the frontend.
+The Translatekar Application is a web-based tool that allows users to translate text between different languages. It consists of a frontend, built with React and styled with Tailwind CSS, and a backend API deployed at https://github.com/sayleephadte/deploy_tf_model-master. The backend API is responsible for handling translation requests and providing the translated text back to the frontend.
 
 ## Features
 - Input text and select source/target languages from a user-friendly interface.
@@ -23,7 +23,7 @@ $ npm start
 
 ### Backend
 
-The backend API for the Translator Application is available at https://github.com/sajalmandrekar/deploy_tf_model. Follow the instructions in that repository's README to set up the backend server.
+The backend API for the Translator Application is available at https://github.com/sayleephadte/deploy_tf_model-master. Follow the instructions in that repository's README to set up the backend server.
 
 Make sure the backend server is running and accessible at an appropriate URL, as the frontend will communicate with it for translations.
 
